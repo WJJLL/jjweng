@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 暨南大学信息科学技术学院老师
+role: 暨南大学信息科学技术学院讲师
 
 # Organizations/Affiliations to display in Biography
 organizations:
@@ -30,9 +30,9 @@ profiles:
     url: 'mailto:jjweng@jnu.edu.cn'
     label: E-mail Me
   - icon: brands/github
-    url: [https://github.com/](https://github.com/WJJLL)
-  - icon: brands/Google Scholar
-    url: [https://www.linkedin.com/](https://scholar.google.com/citations?user=izultWQAAAAJ&hl=zh-CN)
+    url: https://github.com/WJJLL
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=izultWQAAAAJ&hl=zh-CN
 
 education:
   - area: 工学博士
@@ -68,10 +68,8 @@ skills:
         percent: 85
         icon: bomb
 
-
 ---
 
 ## About Me
 
 翁娟娟，暨南大学信息科学技术学院讲师，研究方向为计算机视觉和可信人工智能。2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位，并于2024年7月加入暨南大学信息科学技术学院。主要科研成果包括在CCF-A类会议和期刊上以一作身份发表6篇论文（其中包括顶刊T-PAMI），在CCF-B类期刊上发表2篇论文。此外，参与了多项国家级课题研究，如国家重点研发计划项目、国家自然科学基金面上项目；并担任CVPR, NIPS, ICCV, ACM MM, AAAI, IJCAI, ICASSP和TIFS等会议与期刊的审稿人。
-
