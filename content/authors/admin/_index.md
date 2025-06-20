@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 翁娟娟
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Juanjuan Weng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Juanjuan
+last_name: Weng
 
 # Status emoji
 status:
@@ -17,156 +17,93 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 暨南大学信息科学技术学院老师
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 暨南大学
+    url: https://www.jnu.edu.cn/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jjweng@jnu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 工学博士
+    institution: 厦门大学
+    date_start: 2019-09-01
+    date_end: 2024-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位。研究方向包括计算机视觉与可信人工智能。
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: 讲师
+    company_name: 暨南大学信息科学技术学院
+    company_url: https://ist.jnu.edu.cn/
+    date_start: 2024-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      研究方向为计算机视觉和可信人工智能，重点包括：
+      - 深度视觉模型的对抗攻击与防御
+      - 伪造样本检测
+      - 大模型的安全性研究
+      目前主持/参与多个国家级科研项目，积极指导硕士研究生。
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 研究方向
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
+      - name: 计算机视觉
+        percent: 95
+        icon: eye
+      - name: 可信人工智能
+        percent: 90
+        icon: shield-check
+      - name: 对抗攻击与防御
+        percent: 85
+        icon: bomb
+  - name: 兴趣爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: 摄影
         percent: 80
         icon: camera
+      - name: 徒步
+        percent: 60
+        icon: person-simple-walk
 
 languages:
-  - name: English
+  - name: 中文
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: 英语
+    percent: 85
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 授权发明专利
+    date: '2024-06-01'
+    awarder: 国家知识产权局
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      翁娟娟, 罗志明, 曹东林, 江敏, 李绍滋. 基于序列元学习的黑盒攻击方法、存续介质和电子设备.
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+# Biography content
+---
+翁娟娟，暨南大学信息科学技术学院讲师，研究方向为计算机视觉和可信人工智能。2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位，并于2024年7月加入暨南大学信息科学技术学院。主要科研成果包括在CCF-A类会议和期刊上以第一作者身份发表6篇论文（其中包括顶刊T-PAMI），在CCF-B类期刊上发表2篇论文。此外，参与了多项国家级课题研究，如国家重点研发计划项目、国家自然科学基金面上项目；并担任CVPR、AAAI、IJCAI、NIPS、ICCV、ACM MM、ICASSP 和 TIFS 等国际会议与期刊的审稿人。
+
+## 联系方式
+- 邮箱：jjweng@jnu.edu.cn
+
+## 承担课题
+1. 国家重点研发计划项目 (2023YFC3503001). 基于证素辨识和状态可测原理的动静态中医临床评价方法学构建与示范研究. 2023.11-2026.11. 参与.
+2. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
+
+## 社会职务
+担任CVPR、AAAI、IJCAI、ICASSP、TIFS、NIPS、ICCV、ACM MM 等国际知名会议与期刊的审稿人。
+
+## 指导与合作
+有志于未来从事相关研究的硕士研究生和保研本科生可通过邮箱（jjweng@jnu.edu.cn）与我联系。
