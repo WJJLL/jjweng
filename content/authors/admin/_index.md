@@ -56,20 +56,9 @@ work:
       - 大模型的安全性研究
       目前主持/参与多个国家级科研项目，积极指导硕士研究生。
 
-skills:
-  - name: 研究方向
-    items:
-      - name: 计算机视觉
-        percent: 95
-        icon: eye
-      - name: 可信人工智能
-        percent: 90
-        icon: shield-check
-      - name: 对抗攻击与防御
-        percent: 85
-        icon: bomb
 
 ---
+
 
 ## 代表性论文
 
