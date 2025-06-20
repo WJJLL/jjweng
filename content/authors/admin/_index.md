@@ -22,7 +22,7 @@ role: 暨南大学信息科学技术学院讲师
 # Organizations/Affiliations to display in Biography
 organizations:
   - name: 暨南大学
-    url: https://www.jnu.edu.cn/
+    url: https://www.jnu.edu.cn/main.htm
 
 # Social network links
 profiles:
@@ -37,6 +37,7 @@ profiles:
 education:
   - area: 工学博士
     institution: 厦门大学
+    supervisor: 李绍滋
     date_start: 2019-09-01
     date_end: 2024-06-30
     summary: |
@@ -70,6 +71,72 @@ skills:
 
 ---
 
-## About Me
+## 代表性论文
 
-翁娟娟，暨南大学信息科学技术学院讲师，研究方向为计算机视觉和可信人工智能。2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位，并于2024年7月加入暨南大学信息科学技术学院。主要科研成果包括在CCF-A类会议和期刊上以一作身份发表6篇论文（其中包括顶刊T-PAMI），在CCF-B类期刊上发表2篇论文。此外，参与了多项国家级课题研究，如国家重点研发计划项目、国家自然科学基金面上项目；并担任CVPR, NIPS, ICCV, ACM MM, AAAI, IJCAI, ICASSP和TIFS等会议与期刊的审稿人。
+### 📚 CCF-A 期刊论文
+
+1. **Weng, J.**, Luo, Z., Li, S., Sebe, N., & Zhong, Z. (2023).  
+   "Logit margin matters: Improving transferable targeted adversarial attack by logit calibration"  
+   *IEEE Transactions on Information Forensics and Security*  
+   **[CCF-A]** | **第一作者** | 18:3561-3574  
+   🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/10147340)| [Code](https://github.com/WJJLL/Target-Attack/)
+
+2. **Yang, F.**<sup>*</sup>, **Weng, J.**<sup>*</sup>, Zhong, Z., et al. (2023).  
+   "Towards robust person re-identification by defending against universal attackers"  
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence*  
+   **[CCF-A]** | **共同第一作者** | 45(4):5218-5235  
+   🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/9858024/) | [Code](https://github.com/WJJLL/Meta-Attack-Defense)
+
+3. **Weng, J.**, Luo, Z., Li, S., et al. (2024).  
+   "Boosting Adversarial Transferability via Logits Mixup With Dominant Decomposed Feature"  
+   *IEEE Transactions on Information Forensics and Security*  
+   **[CCF-A]** | **第一作者**  
+   🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/10684756/)  | [Code](https://github.com/WJJLL/SVD-SSA)
+
+4. **Weng, J.**, Luo, Z., & Li, S. (2025).  
+   "Improving Transferable Targeted Adversarial Attack via Normalized Logit Calibration and Truncated Feature Mixing"  
+   *IEEE Transactions on Information Forensics and Security*  
+   **[CCF-A]** | **第一作者**  
+   🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/10975005)
+
+### 🎯 CCF-A 会议论文
+
+1. **Weng, J.**, Luo, Z., Zhong, Z., et al. (2023).  
+   "Exploring non-target knowledge for improving ensemble universal adversarial attacks"  
+   *AAAI Conference on Artificial Intelligence*  
+   **[CCF-A]** | **第一作者** | 37(3):2768-2775  
+   🔗 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25377) | [Code](https://github.com/WJJLL/ND-MM)
+
+2. He, Y., Peng, L., Zhang, Y., **Weng, J.**<sup>†</sup>, Li, S., & Luo, Z.<sup>†</sup> (2025).  
+   "Long-Tailed Out-of-Distribution Detection: Prioritizing Attention to Tail"  
+   *AAAI Conference on Artificial Intelligence*  
+   **[CCF-A]** | **通讯作者** | 39(3):3446-3454  
+   🔗 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32357) | [Code](https://github.com/InaR-design/PATT)
+
+### 📊 CCF-B 期刊论文
+
+1. **Weng, J.**, Luo, Z., Lin, D., & Li, S. (2024).  
+   "Comparative evaluation of recent universal adversarial perturbations in image classification"  
+   *Computers & Security*  
+   **[CCF-B]** | **第一作者** | 136:103576  
+   🔗 [PDF](https://www.sciencedirect.com/science/article/pii/S0167404823004868) | [Code](https://github.com/WJJLL/Attack-Survey)
+
+2. **Weng, J.**, Luo, Z., Lin, D., & Li, S. (2024).  
+   "Learning transferable targeted universal adversarial perturbations by sequential meta-learning"  
+   *Computers & Security*  
+   **[CCF-B]** | **第一作者** | 137:103584  
+   🔗 [PDF](https://www.sciencedirect.com/science/article/pii/S0167404823004947) | [Code](https://github.com/WJJLL/SMeta-UAP)
+
+
+## 承担课题
+1. 国家重点研发计划项目 (2023YFC3503001). 基于证素辨识和状态可测原理的动静态中医临床评价方法学构建与示范研究. 2023.11-2026.11. 参与.
+2. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
+
+## 社会职务
+担任CVPR、AAAI、IJCAI、ICASSP、TIFS、NIPS、ICCV、ACM MM 等国际知名会议与期刊的审稿人。
+
+## 指导与合作
+有志于未来从事相关研究的硕士研究生和保研本科生可通过邮箱（jjweng@jnu.edu.cn）与我联系。
+
+
+
