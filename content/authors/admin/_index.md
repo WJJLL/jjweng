@@ -89,7 +89,7 @@ profiles:
 3. Zhang K., **Weng, J.**<sup>†</sup>, Li, S., & Luo, Z.(2025).  
    "Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment"  
    *ICCV International Conference on Computer Vision*  
-   **[CCF-A]** | **通讯作者** | 39(3):3446-3454  
+   **[CCF-A]** | **通讯作者** | 
    🔗 [PDF](https://arxiv.org/pdf/2408.06079) | [Code](https://github.com/KejiaZhang-Robust/DHAT)
 
 ### 📊 CCF-B 期刊论文
@@ -106,10 +106,10 @@ profiles:
    **[CCF-B]** | **第一作者** | 137:103584  
    🔗 [PDF](https://www.sciencedirect.com/science/article/pii/S0167404823004947) | [Code](https://github.com/WJJLL/SMeta-UAP)
 
-3. Zhang K., **Weng, J.**<sup>†</sup>, Cai Y., Li, S., & Luo, Z.(2025). 
+3. Zhang K., **Weng, J.**<sup>†</sup>, Cai Y., Li, S., & Luo, Z.(2025).
    "Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness"  
    *Neural Networks*  
-   **[CCF-B]** | **通讯作者** | 137:103584  
+   **[CCF-B]** | **通讯作者** | 
    🔗 [PDF](***) | [Code](https://github.com/KejiaZhang-Robust/HFDR)
 
 
