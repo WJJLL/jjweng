@@ -85,6 +85,13 @@ profiles:
    **[CCF-A]** | **通讯作者** | 39(3):3446-3454  
    🔗 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32357) | [Code](https://github.com/InaR-design/PATT)
 
+
+3. Zhang K., **Weng, J.**<sup>†</sup>, Li, S., & Luo, Z.(2025).  
+   "Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment"  
+   *ICCV International Conference on Computer Vision*  
+   **[CCF-A]** | **通讯作者** | 39(3):3446-3454  
+   🔗 [PDF](https://arxiv.org/pdf/2408.06079) | [Code](https://github.com/KejiaZhang-Robust/DHAT)
+
 ### 📊 CCF-B 期刊论文
 
 1. **Weng, J.**, Luo, Z., Lin, D., & Li, S. (2024).  
@@ -99,10 +106,18 @@ profiles:
    **[CCF-B]** | **第一作者** | 137:103584  
    🔗 [PDF](https://www.sciencedirect.com/science/article/pii/S0167404823004947) | [Code](https://github.com/WJJLL/SMeta-UAP)
 
+3. Zhang K., **Weng, J.**<sup>†</sup>, Cai Y., Li, S., & Luo, Z.(2025). 
+   "Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness"  
+   *Neural Networks*  
+   **[CCF-B]** | **通讯作者** | 137:103584  
+   🔗 [PDF](***) | [Code](https://github.com/KejiaZhang-Robust/HFDR)
+
 
 ## 承担课题
-1. 国家重点研发计划项目 (2023YFC3503001). 基于证素辨识和状态可测原理的动静态中医临床评价方法学构建与示范研究. 2023.11-2026.11. 参与.
-2. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
+1. 中央高校基本科研业务费专项资金（21625344）. 主持.
+2. 国家资助博士后研究人员计划(B档)（GZB20250401）. 主持.
+3. 国家重点研发计划项目 (2023YFC3503001). 基于证素辨识和状态可测原理的动静态中医临床评价方法学构建与示范研究. 2023.11-2026.11. 参与.
+4. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
 
 ## 社会职务
 担任CVPR、AAAI、IJCAI、ICASSP、TIFS、NIPS、ICCV、ACM MM 等国际知名会议与期刊的审稿人。
