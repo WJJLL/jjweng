@@ -106,8 +106,7 @@ profiles:
    **[CCF-B]** | **第一作者** | 137:103584  
    🔗 [PDF](https://www.sciencedirect.com/science/article/pii/S0167404823004947) | [Code](https://github.com/WJJLL/SMeta-UAP)
 
-3. Zhang K., **Weng, J.**<sup>†</sup>, Cai Y., Li, S., & Luo, Z.(2025).
-4. 
+3. Zhang K., **Weng, J.**<sup>†</sup>, Cai Y., Li, S., & Luo, Z.(2025).  
    "Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness"  
    *Neural Networks*  
    **[CCF-B]** | **通讯作者** | 
