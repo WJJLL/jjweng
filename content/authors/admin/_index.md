@@ -120,7 +120,7 @@ profiles:
 4. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
 
 ## 社会职务
-担任CVPR、AAAI、IJCAI、ICASSP、TIFS、NIPS、ICCV、ACM MM 等国际知名会议与期刊的审稿人。
+担任CVPR、AAAI、TIFS、NIPS、ICCV、ACM MM、IJCAI、ICASSP等国际知名会议与期刊的审稿人。
 
 
 
