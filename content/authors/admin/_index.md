@@ -98,9 +98,10 @@ profiles:
    **[CCF-A]** | **通讯作者** | 
    🔗 [PDF](https://arxiv.org/pdf/2408.06079) | [Code](https://github.com/KejiaZhang-Robust/DHAT)
 
-4. Sun, S., Lin, J.,**Weng, J.**, Liu, Z., Li, S., & Luo, Z.(2026)
+4. Sun, S., Lin, J.,**Weng, J.**, Liu, Z., Li, S., & Luo, Z.(2026).
    "COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification"
-   *CVPR Conference on Computer Vision and Pattern Recognition* 
+   *CVPR Conference on Computer Vision and Pattern Recognition*
+   **[CCF-A]**
 ### 📊 CCF-B 期刊论文
 
 1. **Weng, J.**, Luo, Z., Lin, D., & Li, S. (2024).  
