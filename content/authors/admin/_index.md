@@ -36,7 +36,7 @@ profiles:
 ---
 
 ## About Me
-翁娟娟，暨南大学信息科学技术学院，硕导，研究方向为计算机视觉和可信人工智能。2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位，师承李绍滋教授，并于2024年7月加入暨南大学信息科学技术学院。主要科研成果包括在CCF-A类会议和期刊上以一作和通讯身份发表7篇论文（其中包括顶刊T-PAMI），在CCF-B类期刊上发表3篇论文。此外，参与了多项国家级课题研究，如国家重点研发计划项目、国家自然科学基金面上项目；并担任CVPR, NIPS, ICCV, ACM MM, AAAI, IJCAI, ICASSP和TIFS等会议与期刊的审稿人。
+翁娟娟，暨南大学信息科学技术学院，硕导，研究方向为计算机视觉和可信人工智能。2019年9月至2024年6月在厦门大学完成硕博连读，获得工学博士学位，师承李绍滋教授，并于2024年7月加入暨南大学信息科学技术学院。已在 TPAMI、TIP、TIFS、ICCV、CVPR 等重要期刊与会议发表论文 12 篇（CCF-A 类 9 篇、 CCF-B 类 3 篇）。此外，主持广东省面上项目 1 项，博士后面上1项，获国家资助博士后研究人员计划（B 档），参与所在团队李哲涛教授主持的国家重大科研仪器研制项目；并担任TPAMI，CVPR, NIPS, ICCV, ACM MM, AAAI, IJCAI, ICASSP和TIFS等会议与期刊的审稿人。
 
 
 ## 指导与合作
@@ -70,6 +70,13 @@ profiles:
    *IEEE Transactions on Information Forensics and Security*  
    **[CCF-A]** | **第一作者**  
    🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/10975005)
+   
+5. **Weng, J.**, Luo, Z., & Li, S. (2026).  
+   "Exploring frequencies via feature mixing and meta-learning for improving adversarial transferability"  
+   *IEEE Transactions on Image Processing*  
+   **[CCF-A]** | **第一作者**  
+   🔗 [PDF](https://ieeexplore.ieee.org/abstract/document/10975005) | [Code](https://github.com/WJJLL/MetaSSA)
+   
 
 ### 🎯 CCF-A 会议论文
 
@@ -85,13 +92,15 @@ profiles:
    **[CCF-A]** | **通讯作者** | 39(3):3446-3454  
    🔗 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32357) | [Code](https://github.com/InaR-design/PATT)
 
-
-3. Zhang K., **Weng, J.**<sup>†</sup>, Li, S., & Luo, Z.(2025).  
+3. Zhang, K., **Weng, J.**<sup>†</sup>, Li, S., & Luo, Z.(2025).  
    "Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment"  
    *ICCV International Conference on Computer Vision*  
    **[CCF-A]** | **通讯作者** | 
    🔗 [PDF](https://arxiv.org/pdf/2408.06079) | [Code](https://github.com/KejiaZhang-Robust/DHAT)
 
+4. Sun, S., Lin, J.,**Weng, J.**, Liu, Z., Li, S., & Luo, Z.(2026)
+   "COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification"
+   *CVPR Conference on Computer Vision and Pattern Recognition* 
 ### 📊 CCF-B 期刊论文
 
 1. **Weng, J.**, Luo, Z., Lin, D., & Li, S. (2024).  
@@ -114,13 +123,16 @@ profiles:
 
 
 ## 承担课题
-1. 中央高校基本科研业务费专项资金（21625344）. 主持.
-2. 国家资助博士后研究人员计划(B档)（GZB20250401）. 主持.
-3. 国家重点研发计划项目 (2023YFC3503001). 基于证素辨识和状态可测原理的动静态中医临床评价方法学构建与示范研究. 2023.11-2026.11. 参与.
-4. 福建省自然科学基金资助项目 (2022J01002). 面向RGB与红外热感图像的跨模态行人重识别方法研究. 2022.08-2025-08. 参与.
+
+1. 广东省面上. 主持.
+2. 中央高校基本科研业务费专项资金. 主持.
+3. 国家资助博士后研究人员计划(B档). 主持.
+4. 博士后面上. 主持.
+5. 国家重大科研仪器研制项目. 参与.
+6. 国家重点研发计划项目. 参与.
 
 ## 社会职务
-担任CVPR、AAAI、TIFS、NIPS、ICCV、ACM MM、IJCAI、ICASSP等国际知名会议与期刊的审稿人。
+担任TPAMI、CVPR、AAAI、TIFS、NIPS、ICCV、ACM MM、IJCAI、ICASSP等国际知名会议与期刊的审稿人。
 
 
 
